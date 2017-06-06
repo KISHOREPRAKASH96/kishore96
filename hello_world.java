@@ -7,7 +7,7 @@ class hello_world
         int n=5;
         for(int i=0;i<n;i++)
         {
-            System.out.println("HELLO WORLD");
+            System.out.println("HELLO");
         }
     }
 }
